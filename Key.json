@@ -17,6 +17,14 @@
       "hwid": [
         "ANY"
       ]
+    },
+    "DP-1FSEEU": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-21",
+      "hwid": [
+        "524d308a7264dc02"
+      ]
     }
   }
 }
