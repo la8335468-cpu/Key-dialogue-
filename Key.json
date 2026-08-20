@@ -11,14 +11,6 @@
     ]
   },
   "keys": {
-    "DP-VIP-101": {
-      "status": "expired",
-      "expiry_date": "2026-8-20",
-      "hwid": [
-        "your_device_id_here",
-        "524d308a7264dc02"
-      ]
-    },
     "DP-UNIVERSAL": {
       "status": "approved",
       "expiry_date": "2099-12-31",
