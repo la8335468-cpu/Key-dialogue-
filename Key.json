@@ -23,6 +23,14 @@
       "hwid": [
         "524d308a7264dc02"
       ]
+    },
+    "DP-AGINJG": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-22",
+      "hwid": [
+        "4e91897980ebf3a0"
+      ]
     }
   }
 }
