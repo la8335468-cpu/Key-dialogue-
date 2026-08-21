@@ -7,13 +7,5 @@
     "maintenance": false,
     "banned_devices": []
   },
-  "keys": {
-    "DP-UNIVERSAL": {
-      "status": "approved",
-      "expiry_date": "2099-12-31",
-      "hwid": [
-        "524d308a7264dc02"
-      ]
-    }
-  }
+  "keys": {}
 }
