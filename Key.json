@@ -15,6 +15,14 @@
       "hwid": [
         "4e91897980ebf3a0"
       ]
+    },
+    "DP-HEM0AD": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-22",
+      "hwid": [
+        "524d308a7264dc02"
+      ]
     }
   }
 }
