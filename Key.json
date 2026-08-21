@@ -7,5 +7,14 @@
     "maintenance": false,
     "banned_devices": []
   },
-  "keys": {}
+  "keys": {
+    "DP-ICOWKA": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-21",
+      "hwid": [
+        "4e91897980ebf3a0"
+      ]
+    }
+  }
 }
