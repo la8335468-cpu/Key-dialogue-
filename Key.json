@@ -18,7 +18,10 @@
     "DP-9Q8O10": {
       "status": "approved",
       "max_devices": 1,
-      "expiry_date": "2026-08-21"
+      "expiry_date": "2026-08-21",
+      "hwid": [
+        "4e91897980ebf3a0"
+      ]
     }
   }
 }
